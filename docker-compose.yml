@@ -1,5 +1,5 @@
 services:
   webserver:
-    image: ghcr.io/botktps/nginx-Dicko
+    image: ghcr.io/botktps/nginx-dicko
     ports:
       - "8080:80"
